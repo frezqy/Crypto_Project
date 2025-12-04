@@ -23,7 +23,7 @@
 
 1.  **Клонирование репозитория:**
     ```bash
-    git clone [Вставьте сюда HTTPS ссылку вашего репозитория]
+    git clone [https://github.com/frezqy/Crypto_Project.git]
     ```
 2.  **Компиляция:**
     ```bash
